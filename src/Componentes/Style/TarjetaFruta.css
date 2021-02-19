@@ -1,0 +1,28 @@
+.card-fruit-container{    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    width: 300px;
+    margin-right: 20px;          
+}
+.card-fruit-container h3,p{
+    margin: 0;
+}
+.card-fruit-container{
+    background-color: burlywood;
+}
+
+/* estilos del apartado de eventos */
+.box{
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 0.2em;
+}
+.red{
+    border: 1px solid red
+}
+.blue{
+    border: 1px solid blue
+}
